@@ -1,0 +1,546 @@
+[
+ {
+  "name": "Afarak Group",
+  "ticker": "AFAGR"
+ },
+ {
+  "name": "Aktia Pankki A",
+  "ticker": "AKTIA"
+ },
+ {
+  "name": "Alma Media",
+  "ticker": "ALMA"
+ },
+ {
+  "name": "Altia",
+  "ticker": "ALTIA"
+ },
+ {
+  "name": "Apetit",
+  "ticker": "APETIT"
+ },
+ {
+  "name": "Aspo",
+  "ticker": "ASPO"
+ },
+ {
+  "name": "Aspocomp Group",
+  "ticker": "ACG1V"
+ },
+ {
+  "name": "Atria A",
+  "ticker": "ATRAV"
+ },
+ {
+  "name": "Basware",
+  "ticker": "BAS1V"
+ },
+ {
+  "name": "Biohit B",
+  "ticker": "BIOBV"
+ },
+ {
+  "name": "Bittium",
+  "ticker": "BITTI"
+ },
+ {
+  "name": "Boreo",
+  "ticker": "BOREO"
+ },
+ {
+  "name": "CapMan",
+  "ticker": "CAPMAN"
+ },
+ {
+  "name": "Cargotec",
+  "ticker": "CGCBV"
+ },
+ {
+  "name": "Caverion",
+  "ticker": "CAV1V"
+ },
+ {
+  "name": "Citycon",
+  "ticker": "CTY1S"
+ },
+ {
+  "name": "Componenta",
+  "ticker": "CTH1V"
+ },
+ {
+  "name": "Consti",
+  "ticker": "CONSTI"
+ },
+ {
+  "name": "Digia",
+  "ticker": "DIGIA"
+ },
+ {
+  "name": "Digitalist Group",
+  "ticker": "DIGIGR"
+ },
+ {
+  "name": "Dovre Group",
+  "ticker": "DOV1V"
+ },
+ {
+  "name": "EAB Group",
+  "ticker": "EAB"
+ },
+ {
+  "name": "Eezy",
+  "ticker": "EEZY"
+ },
+ {
+  "name": "Elecster A",
+  "ticker": "ELEAV"
+ },
+ {
+  "name": "Elisa",
+  "ticker": "ELISA"
+ },
+ {
+  "name": "Endomines",
+  "ticker": "ENDOM"
+ },
+ {
+  "name": "Enedo",
+  "ticker": "ENEDO"
+ },
+ {
+  "name": "Enento Group",
+  "ticker": "ENENTO"
+ },
+ {
+  "name": "eQ",
+  "ticker": "EQV1V"
+ },
+ {
+  "name": "Etteplan",
+  "ticker": "ETTE"
+ },
+ {
+  "name": "Evli Pankki",
+  "ticker": "EVLI"
+ },
+ {
+  "name": "Exel Composites",
+  "ticker": "EXL1V"
+ },
+ {
+  "name": "F-Secure",
+  "ticker": "FSC1V"
+ },
+ {
+  "name": "Finnair",
+  "ticker": "FIA1S"
+ },
+ {
+  "name": "Fiskars A",
+  "ticker": "FSKRS"
+ },
+ {
+  "name": "Fortum",
+  "ticker": "FORTUM"
+ },
+ {
+  "name": "Glaston",
+  "ticker": "GLA1V"
+ },
+ {
+  "name": "Harvia",
+  "ticker": "HARVIA"
+ },
+ {
+  "name": "HKScan A",
+  "ticker": "HKSAV"
+ },
+ {
+  "name": "Honkarakenne B",
+  "ticker": "HONBS"
+ },
+ {
+  "name": "Huhtamäki",
+  "ticker": "HUH1V"
+ },
+ {
+  "name": "Ilkka-Yhtymä 2",
+  "ticker": "ILK2S"
+ },
+ {
+  "name": "Incap",
+  "ticker": "ICP1V"
+ },
+ {
+  "name": "Innofactor",
+  "ticker": "IFA1V"
+ },
+ {
+  "name": "Investors House",
+  "ticker": "INVEST"
+ },
+ {
+  "name": "Kamux",
+  "ticker": "KAMUX"
+ },
+ {
+  "name": "Kemira",
+  "ticker": "KEMIRA"
+ },
+ {
+  "name": "Keskisuomalainen A",
+  "ticker": "KSLAV"
+ },
+ {
+  "name": "Kesko A",
+  "ticker": "KESKOA"
+ },
+ {
+  "name": "Kesko B",
+  "ticker": "KESKOB"
+ },
+ {
+  "name": "Kesla A",
+  "ticker": "KELAS"
+ },
+ {
+  "name": "Kojamo",
+  "ticker": "KOJAMO"
+ },
+ {
+  "name": "Kone",
+  "ticker": "KNEBV"
+ },
+ {
+  "name": "Konecranes",
+  "ticker": "KCR"
+ },
+ {
+  "name": "Kreate Group",
+  "ticker": "KREATE"
+ },
+ {
+  "name": "Lassila \u0026 Tikanoja",
+  "ticker": "LAT1V"
+ },
+ {
+  "name": "Lehto Group",
+  "ticker": "LEHTO"
+ },
+ {
+  "name": "Marimekko",
+  "ticker": "MEKKO"
+ },
+ {
+  "name": "Martela A",
+  "ticker": "MARAS"
+ },
+ {
+  "name": "Metso Outotec",
+  "ticker": "MOCORP"
+ },
+ {
+  "name": "Metsä Board A",
+  "ticker": "METSA"
+ },
+ {
+  "name": "Metsä Board B",
+  "ticker": "METSB"
+ },
+ {
+  "name": "Musti Group",
+  "ticker": "MUSTI"
+ },
+ {
+  "name": "Neles",
+  "ticker": "NELES"
+ },
+ {
+  "name": "Neste",
+  "ticker": "NESTE"
+ },
+ {
+  "name": "Nixu",
+  "ticker": "NIXU"
+ },
+ {
+  "name": "NoHo Partners",
+  "ticker": "NOHO"
+ },
+ {
+  "name": "Nokia",
+  "ticker": "NOKIA"
+ },
+ {
+  "name": "Nokian Renkaat",
+  "ticker": "TYRES"
+ },
+ {
+  "name": "Nordea Bank",
+  "ticker": "NDA FI"
+ },
+ {
+  "name": "Nurminen Logistics",
+  "ticker": "NLG1V"
+ },
+ {
+  "name": "Olvi A",
+  "ticker": "OLVAS"
+ },
+ {
+  "name": "Oma Säästöpankki",
+  "ticker": "OMASP"
+ },
+ {
+  "name": "Optomed",
+  "ticker": "OPTOMED"
+ },
+ {
+  "name": "Oriola A",
+  "ticker": "OKDAV"
+ },
+ {
+  "name": "Oriola B",
+  "ticker": "OKDBV"
+ },
+ {
+  "name": "Orion A",
+  "ticker": "ORNAV"
+ },
+ {
+  "name": "Orion B",
+  "ticker": "ORNBV"
+ },
+ {
+  "name": "Outokumpu",
+  "ticker": "OUT1V"
+ },
+ {
+  "name": "Ovaro Kiinteistösijoitus",
+  "ticker": "OVARO"
+ },
+ {
+  "name": "Panostaja",
+  "ticker": "PNA1V"
+ },
+ {
+  "name": "Pihlajalinna",
+  "ticker": "PIHLIS"
+ },
+ {
+  "name": "Ponsse",
+  "ticker": "PON1V"
+ },
+ {
+  "name": "PunaMusta Media",
+  "ticker": "PUMU"
+ },
+ {
+  "name": "QPR Software",
+  "ticker": "QPR1V"
+ },
+ {
+  "name": "Qt Group",
+  "ticker": "QTCOM"
+ },
+ {
+  "name": "Raisio V",
+  "ticker": "RAIVV"
+ },
+ {
+  "name": "Rapala VMC",
+  "ticker": "RAP1V"
+ },
+ {
+  "name": "Raute A",
+  "ticker": "RAUTE"
+ },
+ {
+  "name": "Reka Industrial",
+  "ticker": "REKA"
+ },
+ {
+  "name": "Revenio Group",
+  "ticker": "REG1V"
+ },
+ {
+  "name": "Robit",
+  "ticker": "ROBIT"
+ },
+ {
+  "name": "Rovio",
+  "ticker": "ROVIO"
+ },
+ {
+  "name": "Saga Furs C",
+  "ticker": "SAGCV"
+ },
+ {
+  "name": "Sampo A",
+  "ticker": "SAMPO"
+ },
+ {
+  "name": "Sanoma",
+  "ticker": "SAA1V"
+ },
+ {
+  "name": "Scanfil",
+  "ticker": "SCANFL"
+ },
+ {
+  "name": "Sievi Capital",
+  "ticker": "SIEVI"
+ },
+ {
+  "name": "Siili Solutions",
+  "ticker": "SIILI"
+ },
+ {
+  "name": "Solteq",
+  "ticker": "SOLTEQ"
+ },
+ {
+  "name": "Soprano",
+  "ticker": "SOPRA"
+ },
+ {
+  "name": "Sotkamo Silver",
+  "ticker": "SOSI1"
+ },
+ {
+  "name": "SRV Yhtiöt",
+  "ticker": "SRV1V"
+ },
+ {
+  "name": "SSAB A",
+  "ticker": "SSABAH"
+ },
+ {
+  "name": "SSAB B",
+  "ticker": "SSABBH"
+ },
+ {
+  "name": "SSH Communications Security",
+  "ticker": "SSH1V"
+ },
+ {
+  "name": "Stockmann A",
+  "ticker": "STCAS"
+ },
+ {
+  "name": "Stockmann B",
+  "ticker": "STCBV"
+ },
+ {
+  "name": "Stora Enso A",
+  "ticker": "STEAV"
+ },
+ {
+  "name": "Stora Enso R",
+  "ticker": "STERV"
+ },
+ {
+  "name": "Suominen",
+  "ticker": "SUY1V"
+ },
+ {
+  "name": "Taaleri",
+  "ticker": "TAALA"
+ },
+ {
+  "name": "Talenom",
+  "ticker": "TNOM"
+ },
+ {
+  "name": "Tallink Grupp",
+  "ticker": "TALLINK"
+ },
+ {
+  "name": "Tecnotree",
+  "ticker": "TEM1V"
+ },
+ {
+  "name": "Teleste",
+  "ticker": "TLT1V"
+ },
+ {
+  "name": "Telia Company",
+  "ticker": "TELIA1"
+ },
+ {
+  "name": "Terveystalo",
+  "ticker": "TTALO"
+ },
+ {
+  "name": "TietoEVRY",
+  "ticker": "TIETO"
+ },
+ {
+  "name": "Tikkurila",
+  "ticker": "TIK1V"
+ },
+ {
+  "name": "Tokmanni Group",
+  "ticker": "TOKMAN"
+ },
+ {
+  "name": "Trainers´ House",
+  "ticker": "TRH1V"
+ },
+ {
+  "name": "Tulikivi A",
+  "ticker": "TULAV"
+ },
+ {
+  "name": "United Bankers",
+  "ticker": "UNIAV"
+ },
+ {
+  "name": "UPM-Kymmene",
+  "ticker": "UPM"
+ },
+ {
+  "name": "Uponor",
+  "ticker": "UPONOR"
+ },
+ {
+  "name": "Vaisala A",
+  "ticker": "VAIAS"
+ },
+ {
+  "name": "Valmet",
+  "ticker": "VALMT"
+ },
+ {
+  "name": "Valoe",
+  "ticker": "VALOE"
+ },
+ {
+  "name": "Verkkokauppa.com",
+  "ticker": "VERK"
+ },
+ {
+  "name": "Viking Line",
+  "ticker": "VIK1V"
+ },
+ {
+  "name": "Wulff Group",
+  "ticker": "WUF1V"
+ },
+ {
+  "name": "Wärtsilä B",
+  "ticker": "WRT1V"
+ },
+ {
+  "name": "YIT",
+  "ticker": "YIT"
+ },
+ {
+  "name": "Ålandsbanken A",
+  "ticker": "ALBAV"
+ },
+ {
+  "name": "Ålandsbanken B",
+  "ticker": "ALBBV"
+ }
+]
