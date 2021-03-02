@@ -1,4 +1,4 @@
-// pages/api/user.js
+// pages/api/user.ts
 
 import Iron from '@hapi/iron'
 import CookieService from '../../lib/cookie'

@@ -2,6 +2,7 @@ import Link from 'next/link'
 import Layout from '../components/Layout'
 import Downshift from 'downshift'
 import { GetStaticProps, GetStaticPaths, GetServerSideProps } from 'next'
+import useAuth from "../hooks/useAuth";
 
 export const getServerSideProps: GetServerSideProps = async (context) => {
   const res = await fetch('http://localhost:3000/companies.json')
@@ -19,8 +20,16 @@ export const getServerSideProps: GetServerSideProps = async (context) => {
 
 }
 
-const DashboardPage = (props) => (
 
+
+export default function DashboardPage (props)  { 
+
+  const { user, loading } = useAuth();
+  
+  
+  return (
+
+   
   <Layout title="Home | Next.js + TypeScript Example">
     <h1>Hello Next.js 👋</h1>
     <p>
@@ -82,7 +91,6 @@ const DashboardPage = (props) => (
   <ul>
    { props.companies.map( (company) => <li>{company.name} {company.ticker}</li>)}
   </ul> */}
-  </Layout>
-)
+  </Layout>)
 
-export default DashboardPage
+}
