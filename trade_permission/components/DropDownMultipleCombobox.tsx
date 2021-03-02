@@ -63,25 +63,10 @@ export default  function DropdownMultipleCombobox (props : any) {
       },
     })
     return (
-      <div>
+      <div className="columns">
+        <div className="column">
         <label className="label" {...getLabelProps()}>Valitse osakeet joihin haluat pyytää kaupankäytiluvan:</label>
-        <div>
-          {selectedItems.map((selectedItem, index) => (
-            <span        
-              key={`selected-item-${index}`}
-              {...getSelectedItemProps({ selectedItem, index })}
-            >
-              {selectedItem.name}
-              <span            
-                onClick={e => {
-                  e.stopPropagation()
-                  removeSelectedItem(selectedItem)
-                }}
-              >
-                &#10005;
-              </span>
-            </span>
-          ))}
+        
           <div className="dropdown" {...getComboboxProps()}>
             <input className="input"
               {...getInputProps(
@@ -92,7 +77,6 @@ export default  function DropdownMultipleCombobox (props : any) {
               &#8595;
             </button>
           </div>
-        </div>
         <ul {...getMenuProps()}>
           {isOpen &&
             getFilteredItems(props.companies).map((item, index) => (
@@ -109,7 +93,27 @@ export default  function DropdownMultipleCombobox (props : any) {
               </li>
             ))}
         </ul>
-      </div>
+        </div>
+      <div className="column">
+        <label className="label">Valitut osakkeet:</label>
+        {selectedItems.map((selectedItem, index) => (
+          <span        
+            key={`selected-item-${index}`}
+            {...getSelectedItemProps({ selectedItem, index })}
+          >
+            {selectedItem.name}
+            <span            
+              onClick={e => {
+                e.stopPropagation()
+                removeSelectedItem(selectedItem)
+              }}
+            >
+              &#10005;
+            </span>
+          </span>
+        ))}
+        </div>
+        </div>
     )
   }
 
