@@ -31,12 +31,6 @@ export default function DashboardPage (props)  {
 
    
   <Layout title="Home | Next.js + TypeScript Example">
-    <h1>Hello Next.js 👋</h1>
-    <p>
-      <Link href="/about">
-        <a>About</a>
-      </Link>
-    </p>
     <Downshift
     onChange={selection =>
       alert(selection ? `You selected ${selection.name}` : 'Selection Cleared')
