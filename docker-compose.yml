@@ -1,0 +1,23 @@
+
+version: "3"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: ./trade_permission/Dockerfile
+    container_name: web
+    restart: always
+    volumes:
+      - ./trade_permission:/src
+    ports:
+      - "3000:3000"
+    depends_on: 
+      - db
+
+
+  db:
+    image: "postgres"
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: for_your_eyes_only
